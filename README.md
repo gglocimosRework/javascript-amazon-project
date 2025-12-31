@@ -1,7 +1,7 @@
 # Amazon Clone - JavaScript/CSS/HTML Project
 
 This is an Amazon-like e-commerce project built while learning **JavaScript**, **HTML**, and **CSS**, following tutorials from the well-known YouTuber **SuperSimpleDev (John)**.  
-The main goal of this project was to practice DOM manipulation, modular code structure, and create a semi functional shopping experience.
+The main goal of this project was to practice DOM manipulation, modular code structure, and create an almost complete functional shopping experience.
 
 -----------
 
