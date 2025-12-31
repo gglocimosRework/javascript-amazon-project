@@ -7,12 +7,12 @@ The main goal of this project was to practice DOM manipulation, modular code str
 
 ## Features
 
-✔ Dynamic product listing (data loaded from JS objects)  
-✔ Functional **Add to Cart** button  
-✔ Cart quantity updates in real time  
-✔ Price formatting using `formatCurrency()`  
-✔ Extra product information shown conditionally  
-✔ Project structured using **ES6 modules (import/export)**
+ * Dynamic product listing (data loaded from JS objects)  
+ * Functional **Add to Cart** button  
+ * Cart quantity updates in real time  
+ *  Price formatting using `formatCurrency()`  
+ * Extra product information shown conditionally  
+ * Project structured using **ES6 modules (import/export)**
 
 -----------
 
@@ -39,7 +39,7 @@ The main goal of this project was to practice DOM manipulation, modular code str
 
 ##### Learning Purpose
 
-This project helped me improve(or consolidate) skills in:
+ * This project helped me improve(or consolidate) skills in:
 -HTML(consolidating  the basic)
 -CSS(consolidating the visual area)
 - DOM manipulation
