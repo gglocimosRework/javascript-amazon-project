@@ -154,3 +154,12 @@
   padding: 8px;
   border-radius: 50px;
 }
+
+.link-color {
+  color: rgb(15, 17, 17);
+  text-decoration: underline;
+}
+
+.link-color:hover {
+  color: rgb(240, 136, 4);
+}
